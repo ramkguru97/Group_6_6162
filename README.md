@@ -1,5 +1,4 @@
 # Group 6 ITCS-6162 Food and World Analysis
-
 ## Team Members: Arvind Suryiakanth, Calvin Moore, Ramesh Gururajan, Roy Ulrichiii
 
 # Project Summary:
