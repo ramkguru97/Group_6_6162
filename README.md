@@ -16,6 +16,6 @@ and production of feed and food, we want to evaluate what are the fastest growin
 We used these datasets from [Kaggle](https://www.kaggle.com/) for our project - [FAO.csv](https://github.com/ramkguru97/Group_6_6162/blob/main/FAO.csv), [Metadata_Country_for_World_population.csv](https://github.com/ramkguru97/Group_6_6162/blob/main/Metadata_Country_for_World_population.csv), [WorldPopulation.csv](https://github.com/ramkguru97/Group_6_6162/blob/main/WorldPopulation.csv)
 
 ### Data preprocessing:
-We cleaned the dataset by removing all duplicate values and null values.Here is a notebook with our cleaned data - [Deliverable 2 Preliminary Cleansing .ipynb](https://github.com/ramkguru97/Group_6_6162/blob/main/Deliverable%202%20Preliminary%20Cleansing%20.ipynb)
+We cleaned the dataset by removing all duplicate values and null values. Also, our team merged the FAO.csv and the WorldPopulatio.csv. Here is a notebook with our new cleaned and merged datasets - [Deliverable 2 Preliminary Cleansing .ipynb](https://github.com/ramkguru97/Group_6_6162/blob/main/Deliverable%202%20Preliminary%20Cleansing%20.ipynb)
 
 ## Final Result:
