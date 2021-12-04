@@ -2,9 +2,9 @@
 Implementation of Exploratory Data Analysis
 
 ### Team Members: 
-Arvind Suryiakanth 
-Calvin Moore 
-Ramesh Gururajan 
+Arvind Suryiakanth  
+Calvin Moore  
+Ramesh Gururajan  
 Roy Ulrichiii
 
 ## Project Summary:
