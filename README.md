@@ -1,7 +1,7 @@
 # Group 6 ITCS-6162 Food and World Analysis
 ## Implementation of Exploratory Data Analysis
 
-## Project and Team Introduction
+## Project and Team Introduction:
 
 ### Team Members: 
 Arvind Suryiakanth  
@@ -16,7 +16,7 @@ In order to cope with the need for food, we need to devise a way to balance supp
 For a given economic measure of a country with respect to population 
 and production of feed and food, we want to evaluate what are the fastest growing countries and balance the supply and demand based on analysis of economic measures and agricultural production
 
-## Data and Source description
+## Data and Source description:
 
 ### Collecting Data:
 We used these datasets from [Kaggle](https://www.kaggle.com/) for our project - [FAO.csv](https://github.com/ramkguru97/Group_6_6162/blob/main/FAO.csv), [Metadata_Country_for_World_population.csv](https://github.com/ramkguru97/Group_6_6162/blob/main/Metadata_Country_for_World_population.csv), [WorldPopulation.csv](https://github.com/ramkguru97/Group_6_6162/blob/main/WorldPopulation.csv)
@@ -24,13 +24,13 @@ We used these datasets from [Kaggle](https://www.kaggle.com/) for our project - 
 ### Data preprocessing:
 We cleaned the dataset by removing all duplicate values and null values. Also, our team merged the FAO.csv and the WorldPopulatio.csv. Here is a notebook with our new cleaned and merged datasets - [Deliverable 2 Preliminary Cleansing .ipynb](https://github.com/ramkguru97/Group_6_6162/blob/main/Deliverable%202%20Preliminary%20Cleansing%20.ipynb)
 
-## CRISP-DM Process
+## CRISP-DM Process:
 
-## Domain Knowledge
+## Domain Knowledge:
 
-## Data Understanding and EDA
+## Data Understanding and EDA:
 
-## Data Preparation
+## Data Preparation:
 
 ## Machine Learning:
 
