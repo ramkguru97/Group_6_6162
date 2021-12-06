@@ -1,6 +1,8 @@
 # Group 6 ITCS-6162 Food and World Analysis
 ## Implementation of Exploratory Data Analysis
 
+![alt text](https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/5/1/9/5/3005915-1-eng-GB/Global-food-supply-balance-is-becoming-increasingly-unstable-as-population-grows_wrbm_large.jpg)
+
 ## Project and Team Introduction:
 
 ### Team Members: 
