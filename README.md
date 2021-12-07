@@ -27,12 +27,12 @@ The datasets that we used came from [Kaggle](https://www.kaggle.com/) and [World
 We cleaned the dataset by removing all duplicate values and null values. Also, our team merged the FAO.csv and the WorldPopulatio.csv. Here is a notebook with our new cleaned and merged datasets - [Deliverable 2 Preliminary Cleansing .ipynb](https://github.com/ramkguru97/Group_6_6162/blob/main/Deliverable%202%20Preliminary%20Cleansing%20.ipynb)
 
 ## CRISP-DM Process:
-- [Business understanding]()
-- [Data Understanding and EDA]()
-- [Data Preparation]()
-- [Modeling]()
-- [Evaluation]()
-- [Deployment]()
+- [Business understanding](https://github.com/ramkguru97/Group_6_6162#business-understanding)
+- [Data Understanding and EDA](https://github.com/ramkguru97/Group_6_6162#data-understanding-and-eda)
+- [Data Preparation](https://github.com/ramkguru97/Group_6_6162#data-preparation)
+- [Modeling](https://github.com/ramkguru97/Group_6_6162#modeling)
+- [Evaluation](https://github.com/ramkguru97/Group_6_6162#evaluation)
+- [Deployment](https://github.com/ramkguru97/Group_6_6162#deployment)
 
 ## Business understanding:
 
