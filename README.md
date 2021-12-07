@@ -46,6 +46,6 @@ We cleaned the dataset by removing all duplicate values and null values. Also, o
 
 ## Deployment:
 
-### Conclusion
+### Conclusion:
 
-### Future Work
+### Future Work:
