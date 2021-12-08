@@ -38,16 +38,26 @@ We have undergone these steps as a part of CRISP-DM:
 
 ## Business understanding:
 
+
 ## Data Understanding and EDA:
 
+
 ## Data Preparation:
+1. Merged data from FAO.csv and GlobalPopulation.csv.
+2. Merged from csvs put into new dataframe, called "result", on condition Country Name.
+3. Created heatmap to show columns with null values.
+4. 
 
 ## Modeling:
 
+
 ## Evaluation:
+
 
 ## Deployment:
 
 ### Conclusion:
 
+
 ### Future Work:
+Plans for futhur working on this project would be to obtain more data from different countries we don't already have and to obtain more recent data from the countries we are taking a look at. Once, more data is obtained then more EDA methods will be used to make the mass data collected easier to work with. After that, more visualiztions and models will be implemented to help more people interested in the project undertand the approach we are going for and why this knowlege gathered is important and what it means for us going forward.
