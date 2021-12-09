@@ -50,6 +50,7 @@ We have undergone these steps as a part of CRISP-DM:
 
 ## Modeling:
 After the data prep phase, we have implemented 
+![image](https://user-images.githubusercontent.com/89566244/145322294-58b02a8c-8827-4635-8168-1a3eda65cf90.png)
 
 ## Evaluation:
 All the models that were built 
