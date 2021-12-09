@@ -83,4 +83,4 @@ We can make use the model generated [K-Mean clustering] for any type of dataset 
 Plans for further working on this project would be to obtain more data from different countries we don't already have and to obtain more recent data from the countries we are taking a look at. Once, more data is obtained then more EDA methods will be used to make the mass data collected easier to work with. After that, more visualiztions and models will be implemented to help more people interested in the project undertand the approach we are going for, why this knowlege gathered is important, and what this means for humans if these trends continue.
 
 ### Instructions to Use
-To continue work on this project the final notebook and data files included in this github site can be downloaded; and used in Anaconda, Google Colab, or any other python friendly environments that will support jupter notebooks.
+To continue work on this project or view it locally the final notebook and data files can be downloaded from this github page. It can viewed/worked on in Anaconda, Google Colab, or any other python friendly environments that will support jupter notebooks.
