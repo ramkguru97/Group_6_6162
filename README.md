@@ -47,7 +47,17 @@ Feed - refers to the quantity of the food item available for feeding to the live
 -Unique Countries Food/Feed Production for Given Year
 
 ## Data Understanding and EDA:
+This displays the overall count between Food and Feed and generates category plot based on the ELement 
+![image](https://user-images.githubusercontent.com/54337476/145330618-4db32094-2401-4374-a68b-803ceeaf0320.png)
 
+Feed and food production plot - pie chart
+![image](https://user-images.githubusercontent.com/54337476/145330777-0da6bce1-772b-442d-8c03-42321a46e1f9.png)
+
+Factor plot to show the count of all the items produced inclusive of feed/food
+![image](https://user-images.githubusercontent.com/54337476/145330836-7df3b311-1922-4a8a-952b-ec66c7a1ba51.png)
+
+Factorplot --> feed/food production for items oats/spices 
+![image](https://user-images.githubusercontent.com/54337476/145330918-60211367-f0f3-4c1f-afe5-57cd2560403e.png)
 
 ## Data Preparation:
 1. Merged data from FAO.csv and GlobalPopulation.csv.
