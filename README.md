@@ -24,7 +24,7 @@ and production of feed and food, we want to evaluate what are the fastest growin
 The datasets that we used came from [Kaggle](https://www.kaggle.com/) and [World Bank](https://www.worldbank.org/en/home) for our project. The data for our food came from this page [Food data](https://www.kaggle.com/dorbicycle/world-foodfeed-production). The data for our world population datasets came from this page [Population data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 ### Introduction to the Dataset:
-
+The Food and Agriculture Organization of the United Nations provides free access to food and agriculture data for over 245 countries and territories, from the year 1961 to 
 
 ## CRISP-DM Process:
 We have undergone these steps as a part of CRISP-DM:
@@ -37,7 +37,11 @@ We have undergone these steps as a part of CRISP-DM:
 - [Deployment](https://github.com/ramkguru97/Group_6_6162#deployment)
 
 ## Research understanding:
-
+Research Questions of Interest:
+1. What are the top 5 foods produced by each continent from 1961?
+2. Which food items from 1990-2013 are known to increase production of feed  and food in Asia? How does this affect food consumption globally?
+3. Which top 3 countries produce the most food globally and is the rate of food production inversely or directly proportional to its growing population?
+4. What are the top 5 food ingredients (milk, wheat, soy, etc) for each continent in the world? What is the percent of demand of those given food compared to the total demand of all food ingredients for that continent?
 
 ## Data Understanding and EDA:
 
