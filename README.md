@@ -36,7 +36,7 @@ We have undergone these steps as a part of CRISP-DM:
 - [Evaluation](https://github.com/ramkguru97/Group_6_6162#evaluation)
 - [Deployment](https://github.com/ramkguru97/Group_6_6162#deployment)
 
-## Business understanding:
+## Research understanding:
 
 
 ## Data Understanding and EDA:
