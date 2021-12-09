@@ -79,12 +79,10 @@ As as a result of our model using K-means clustering which  is a machine learnin
 ## Deployment:
 
 ### Conclusion:
-
+We can make use the model generated [K-Mean clustering] for any type of dataset [Food/Feed Vs Country : Which we modelled in our project for top 10 countries] having Food Vs countries from each continent , Food Vs Population for any given country or Countries. This will eventually help predict the supply [Food production] Vs Demand [Population growth]. Clusterting the country based on food type[Food production] for a given lattitude-longitude or country location can be leveraged, if surplus, to meet the population growth in different lattitude-longitude or coiuntry location where there is food scarcity.
 
 ### Future Work:
 Plans for futhur working on this project would be to obtain more data from different countries we don't already have and to obtain more recent data from the countries we are taking a look at. Once, more data is obtained then more EDA methods will be used to make the mass data collected easier to work with. After that, more visualiztions and models will be implemented to help more people interested in the project undertand the approach we are going for, why this knowlege gathered is important, and what this means for humans if these trends continue.
-
-We can make use the model generated [K-Mean clustering] for any type of dataset [Food/Feed Vs Country : Which we modelled in our project for top 10 countries] having Food Vs countries from each continent , Food Vs Population for any given country or Countries. This will eventually help predict the supply [Food production] Vs Demand [Population growth]. Clusterting the country based on food type[Food production] for a given lattitude-longitude or country location can be leveraged, if surplus, to meet the population growth in different lattitude-longitude or coiuntry location where there is food scarcity. 
 
 ### Instructions to Use
 To continue work on this project the final notebook and data files included in this github site can be downloaded; and used in Anaconda, Google Colab, or any other python friendly environments that will support jupter notebooks.
