@@ -21,10 +21,8 @@ and production of feed and food, we want to evaluate what are the fastest growin
 ## Data and Source description:
 
 ### Datasource:
-The datasets that we used came from [Kaggle](https://www.kaggle.com/) and [World Bank](https://www.worldbank.org/en/home) for our project. The data for our food came from this page [Food data](https://www.kaggle.com/dorbicycle/world-foodfeed-production). The data for our world population datasets came from this page [Population data](https://data.worldbank.org/indicator/SP.POP.TOTL).
-
-### Introduction to the Dataset:
-The Food and Agriculture Organization of the United Nations provides free access to food and agriculture data for over 245 countries and territories, from the year 1961 to 
+The datasets that we used came from [Kaggle](https://www.kaggle.com/) and [World Bank](https://www.worldbank.org/en/home) for our project. The data for our food came from this page [Food data](https://www.kaggle.com/dorbicycle/world-foodfeed-production). The data specifically focuses on comparison between food produced for human consumption 
+and feed produced for animals. The data is collected from The Food and Agriculture Organization of the United Nations for over 245 countries from 1961 to 2013 and consists of 63 columns and 21478 rows. The data for our world population datasets came from this page [Population data](https://data.worldbank.org/indicator/SP.POP.TOTL). The data collected is seperated into population total, population male, population female % of total population male, and % of total population female. This data is collected from 245 countries from 1960-2020.
 
 ## CRISP-DM Process:
 We have undergone these steps as a part of CRISP-DM:
@@ -37,11 +35,16 @@ We have undergone these steps as a part of CRISP-DM:
 - [Deployment](https://github.com/ramkguru97/Group_6_6162#deployment)
 
 ## Research understanding:
-Research Questions of Interest:
-1. What are the top 5 foods produced by each continent from 1961?
-2. Which food items from 1990-2013 are known to increase production of feed  and food in Asia? How does this affect food consumption globally?
-3. Which top 3 countries produce the most food globally and is the rate of food production inversely or directly proportional to its growing population?
-4. What are the top 5 food ingredients (milk, wheat, soy, etc) for each continent in the world? What is the percent of demand of those given food compared to the total demand of all food ingredients for that continent?
+Our world population is expected to grow from 7.3 billion today to 9.7 billion in the year 2050. Finding solutions for feeding the growing world population has become a hot topic for food and agriculture organizations. These solutions range from changing the way we grow our food to changing the way we eat. The food dataset is focused on two utilizations of each food item available:
+Food - refers to the total amount of the food item available as human food during the reference period.
+Feed - refers to the quantity of the food item available for feeding to the livestock and poultry during the reference period.
+
+### Research Focus Areas:
+-Top Foods Produced 
+-Percentage Analysis Feed vs Food
+-Top Markets Contributing Towards Specific Food Production
+-Grouping of Specific Items
+-Unique Countries Food/Feed Production for Given Year
 
 ## Data Understanding and EDA:
 
