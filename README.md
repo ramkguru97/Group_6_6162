@@ -49,7 +49,7 @@ We have undergone these steps as a part of CRISP-DM:
 4. 
 
 ## Modeling:
-After the data prep phase, we have implemented 
+After the data prep phase, we have implemented K-mean Clustering. Since we dont have a target variable, we have to go with unsupervised learing. As a part of the same we implemented K-mean cluster in order to find a optimal centriods [See image below, its Item Code Vs Country Code(latitude-longitude]. The optimal centriod [shown in Red dot] is the position of latitude-longitude [or]Country location where that particular food item produced in surplus. 
 ![image](https://user-images.githubusercontent.com/89566244/145322294-58b02a8c-8827-4635-8168-1a3eda65cf90.png)
 
 ## Evaluation:
