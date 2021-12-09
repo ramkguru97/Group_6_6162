@@ -48,10 +48,10 @@ Feed - refers to the quantity of the food item available for feeding to the live
 
 ## Data Understanding and EDA:
 This displays the overall count between Food and Feed and generates category plot based on the ELement 
-![image](https://user-images.githubusercontent.com/54337476/145330618-4db32094-2401-4374-a68b-803ceeaf0320.png)
+![image](https://user-images.githubusercontent.com/54337476/145330618-4db32094-2401-4374-a68b-803ceeaf0320.png)  
 
 Feed and food production plot - pie chart
-![image](https://user-images.githubusercontent.com/54337476/145330777-0da6bce1-772b-442d-8c03-42321a46e1f9.png)
+![image](https://user-images.githubusercontent.com/54337476/145331450-2fdd5840-477f-4eba-8705-3acb657f8ee3.png)
 
 Factor plot to show the count of all the items produced inclusive of feed/food
 ![image](https://user-images.githubusercontent.com/54337476/145330836-7df3b311-1922-4a8a-952b-ec66c7a1ba51.png)
