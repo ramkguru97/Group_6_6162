@@ -57,7 +57,7 @@ After the data prep phase, we have implemented K-mean Clustering. Since we dont 
 ![image](https://user-images.githubusercontent.com/89566244/145322294-58b02a8c-8827-4635-8168-1a3eda65cf90.png)
 
 ## Evaluation:
-All the models that were built 
+As as a result of our model using K-means clustering which  is a machine learning clustering technique used to simplify large datasets into smaller and simple datasets. [From 20,000 or more records plus merging food & population dataset] Distinct patterns are evaluated and similar data sets are grouped together. The variable K represents the number of groups in the data. With the model we are able to come up with optimal groups of different food types for any given cluster of countries,  which can be leveraged for future work. K-mean is easy to implement and identify unknown groups of data from complex data sets. The  results are presented in an easy and simple manner.  
 
 ## Deployment:
 
