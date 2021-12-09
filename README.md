@@ -51,9 +51,6 @@ We have undergone these steps as a part of CRISP-DM:
 ## Modeling:
 After the data prep phase, we have implemented 
 
-## Machine Learning:
-
-
 ## Evaluation:
 All the models that were built 
 
