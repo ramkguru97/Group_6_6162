@@ -20,8 +20,11 @@ and production of feed and food, we want to evaluate what are the fastest growin
 
 ## Data and Source description:
 
-### Collecting Data:
-The datasets that we used came from [Kaggle](https://www.kaggle.com/) and [World Bank](https://www.worldbank.org/en/home) for our project. The data for our food data [FAO.csv](https://github.com/ramkguru97/Group_6_6162/blob/main/FAO.csv) came from this page [Food data](https://www.kaggle.com/dorbicycle/world-foodfeed-production). The data for our world population datasets [Metadata_Country_for_World_population.csv](https://github.com/ramkguru97/Group_6_6162/blob/main/Metadata_Country_for_World_population.csv) and [WorldPopulation.csv](https://github.com/ramkguru97/Group_6_6162/blob/main/WorldPopulation.csv) came from this page [Population data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+### Datasource:
+The datasets that we used came from [Kaggle](https://www.kaggle.com/) and [World Bank](https://www.worldbank.org/en/home) for our project. The data for our food came from this page [Food data](https://www.kaggle.com/dorbicycle/world-foodfeed-production). The data for our world population datasets came from this page [Population data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+
+### Introduction to the Dataset:
+
 
 ## CRISP-DM Process:
 We have undergone these steps as a part of CRISP-DM:
@@ -46,10 +49,10 @@ We have undergone these steps as a part of CRISP-DM:
 4. 
 
 ## Modeling:
-
+After the data prep phase, we have implemented 
 
 ## Evaluation:
-
+All the models that were built 
 
 ## Deployment:
 
@@ -58,3 +61,6 @@ We have undergone these steps as a part of CRISP-DM:
 
 ### Future Work:
 Plans for futhur working on this project would be to obtain more data from different countries we don't already have and to obtain more recent data from the countries we are taking a look at. Once, more data is obtained then more EDA methods will be used to make the mass data collected easier to work with. After that, more visualiztions and models will be implemented to help more people interested in the project undertand the approach we are going for and why this knowlege gathered is important and what it means for us going forward.
+
+### Instructions to Use
+To continue work on this project the final notebook and data files included in this github site can be downloaded; and used in Anaconda, Google Colab, or any other python friendly environments that will support jupter notebooks. 
