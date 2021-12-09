@@ -36,7 +36,7 @@ We have undergone these steps as a part of CRISP-DM:
 
 ## Research understanding:
 Our world population is expected to grow from 7.3 billion today to 9.7 billion in the year 2050. Finding solutions for feeding the growing world population has become a hot topic for food and agriculture organizations. These solutions range from changing the way we grow our food to changing the way we eat. The food dataset is focused on two utilizations of each food item available:  
-  Food - refers to the total amount of the food item available as human food during the reference period.
+  Food - refers to the total amount of the food item available as human food during the reference period.  
 Feed - refers to the quantity of the food item available for feeding to the livestock and poultry during the reference period.
 
 ### Research Focus Areas:
