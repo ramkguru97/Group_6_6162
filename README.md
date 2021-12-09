@@ -52,8 +52,12 @@ Feed - refers to the quantity of the food item available for feeding to the live
 ## Data Preparation:
 1. Merged data from FAO.csv and GlobalPopulation.csv.
 2. Merged from csvs put into new dataframe, called "result", on condition Country Name.
-3. Created heatmap to show columns with null values.
-4. 
+3. Identifying Missing Values
+4. Created heatmap to show columns with null values.
+5. Check for Null Values
+6. Duplicate Data Check
+7. Duplicate Data Dropping
+8. Drop Missing Values
 
 ## Modeling:
 After the data prep phase, we have implemented K-mean Clustering. Since we dont have a target variable, we have to go with unsupervised learing. As a part of the same we implemented K-mean cluster in order to find a optimal centriods [See image below, its Item Code Vs Country Code(latitude-longitude]. The optimal centriod [shown in Red dot] is the position of latitude-longitude [or]Country location where that particular food item produced in surplus. 
